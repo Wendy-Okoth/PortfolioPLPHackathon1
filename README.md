@@ -149,10 +149,12 @@ This portfolio is a reflection of both my technical journey and professional asp
 ---
 
 ## 📬 Contact Me
-- 📧 Email: wendyaokoth@example.com  
+
+- 📧 Email: wendyaokoth@gmail.com  
 - 📱 Phone: +254 763 132 372  
-- 🌐 LinkedIn: [linkedin.com/in/wendy-okoth](#) *https://www.linkedin.com/in/wendy-okoth-329b98236/*  
+- 🌐 LinkedIn: [Wendy Okoth](https://www.linkedin.com/in/wendy-okoth-329b98236/)  
 - 📝 [Download My Resume](assets/resume.pdf)
+
 
 ---
 
