@@ -32,19 +32,20 @@ This portfolio serves as a digital resume, giving an overview of who I am as a s
 ✅ Skills progress bars  
 ✅ Contact form (with visual confirmation)  
 ✅ Downloadable resume  
-✅ Project Cards
 ✅ Clean and commented codebase  
 ✅ Organized and modular sections  
-✅ GitHub-ready and collaboration-friendly
+✅ GitHub-ready and collaboration-friendly  
+✅ Project Cards
+
 
 ##  Sections Included
 
 ### 🔹 Header
--This section includes my name (Wendy Okoth) and role Tech Enthusiast.
-- CSS dark mode toggle
+This section includes my name (Wendy Okoth) and role Tech Enthusiast.
+CSS dark mode toggle
 
 ### 🔹 About Me
-- In this brief paragraph, I share who I am and what drives my passion for technology
+In this brief paragraph, I share who I am and what drives my passion for technology
 
 ### 🔹 Contact Me
 This section provides ways to get in touch with me and explore my portfolio.  
@@ -72,12 +73,13 @@ This section also includes my curriculum vitae, which is available for download.
 
 
 ### 🔹 Interests
-- A brief overview of my personal interests in technology.
+A brief overview of my personal interests in technology.
 
 ### 🔹 Projects
-- Brief summary of two key projects
-- Links to GitHub repositories and live demos are on the other side of the project cards
-- Uses IPFS for one hosted project (Web3 integration)
+- A brief summary of two key projects is provided.  
+- Links to GitHub repositories and live demos are included.  
+- These links are accessible on the other side of the project cards.  
+- One of the projects features IPFS for Web3 integration.
 
 ### 🔹 Contact Form
 - There is a styled contact form with required fields
