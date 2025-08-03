@@ -16,7 +16,9 @@ It has several sections showcasing my:
 
 ##  Project Overview
 
-This portfolio serves as a digital resume, giving an overview of who I am as a software developer and student. It's designed with simplicity, clarity, and accessibility in mind.
+This portfolio is a reflection of both my technical journey and professional aspirations.
+
+It also serves as a digital resume, giving an overview of who I am as a software developer and student. It's designed with simplicity, clarity, and accessibility in mind.
 
 ### Built With
 
@@ -143,9 +145,8 @@ I’m **Wendy Okoth**, a third-year BSc. Applied Computing student at **KCA Univ
 - Full-stack development
 - Blockchain and Web3
 - AgriTech innovation
-- AI and FinTech
+- AI 
 
-This portfolio is a reflection of both my technical journey and professional aspirations.
 ---
 
 ## 📬 Contact Me
@@ -158,5 +159,8 @@ This portfolio is a reflection of both my technical journey and professional asp
 
 ---
 
-_✨ ---Thanks for checking out my portfolio! I'm always open to feedback, collaboration, and new opportunities in tech._  
-**Let’s build something impactful together. **
+<p align="center"><strong>
+✨  Thank you for checking out my portfolio! I'm always open to feedback, collaboration, and new opportunities in tech.  
+Let’s build something impactful together.</strong>
+</p>
+
