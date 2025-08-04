@@ -87,6 +87,9 @@ A brief overview of my personal interests in technology.
 - There is a styled contact form with required fields
 - Displays a confirmation message on submission (visual only — no backend)
 
+## 🚀 Live Demo
+[Click here to view the live demo](https://Wendy-Okoth.github.io/PorrtfolioPLPHackathon1/) 
+
 ## 📁 Folder Structure
 
 ```
