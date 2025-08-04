@@ -88,7 +88,7 @@ A brief overview of my personal interests in technology.
 - Displays a confirmation message on submission (visual only — no backend)
 
 ## 🚀 Live Demo
-[Click here to view the live demo](https://Wendy-Okoth.github.io/PorrtfolioPLPHackathon1/) 
+[Click here to view the live demo](https://Wendy-Okoth.github.io/PortfolioPLPHackathon1/) 
 
 ## 📁 Folder Structure
 
